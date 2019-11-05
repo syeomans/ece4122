@@ -1,0 +1,17 @@
+#PBS -N job1
+#PBS -q coc-ice 
+#PBS -o job1.output.$PBS_JOBID 
+#PBS -l nodes=4:ppn=2
+#PBS -l walltime=2:00
+
+#PBS -j oe
+#PBS -o hello.out
+
+#PBS -m abe
+#PBS -M jhurley@gatech.edu
+
+cd ~/MPI/Hello
+
+echo "Started Job..."
+module load gcc mvapich2
+mpirun -np 8 ./a.out

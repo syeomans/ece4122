@@ -1,0 +1,16 @@
+#PBS -N buzzy
+#PBS -q coc-ice
+#PBS -l nodes=4:ppn=2
+#PBS -l walltime=10:00
+
+#PBS -j oe
+#PBS -o out.dat
+
+#PBS -m abe
+#PBS -M syeomans3@gatech.edu
+
+cd data/hw5
+echo "Started Job..."
+module load gcc mvapich2
+mpic++ buzzy.cpp -std=c++11
+mpirun -n 8 ./a.out

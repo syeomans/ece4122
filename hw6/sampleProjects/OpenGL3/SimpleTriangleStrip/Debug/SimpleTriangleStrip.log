@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SimpleTriangleStrip.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\simpletrianglestrip\source.cpp(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\simpletrianglestrip\source.cpp(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\simpletrianglestrip\source.cpp(33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\simpletrianglestrip\source.cpp(61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\simpletrianglestrip\source.cpp(65): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\simpletrianglestrip\source.cpp(72): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\simpletrianglestrip\source.cpp(101): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\simpletrianglestrip\source.cpp(116): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  SimpleTriangleStrip.vcxproj -> C:\Users\jhurley31\Documents\ECE4122_6122\Fall 2019\Code\OpenGL\Debug\RotateTeapot.exe

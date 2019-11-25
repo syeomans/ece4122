@@ -242,7 +242,7 @@ int main(int argc, char**argv)
       cout << "rankID, status, x, y, z, Fx, Fy, Fz" << endl;
       for (int i=0; i<8; i++)
       {
-        cout << scientific << setprecision(3) << ships[i].rankId << ", " << ships[i].status;
+        cout << scientific << setprecision(6) << ships[i].rankId << ", " << ships[i].status;
         for (int j=0; j<3; j++)
         {
           cout << ", " << ships[i].position[j];

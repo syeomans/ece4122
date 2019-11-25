@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\spinningicosahedrons\main.cpp(20): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\spinningicosahedrons\main.cpp(45): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\spinningicosahedrons\main.cpp(51): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\spinningicosahedrons\main.cpp(56): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\spinningicosahedrons\main.cpp(64): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\spinningicosahedrons\main.cpp(69): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\spinningicosahedrons\main.cpp(106): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\spinningicosahedrons\main.cpp(153): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  SpinningIcosahedrons.vcxproj -> C:\Users\jhurley31\Documents\ECE4122_6122\Fall 2019\Code\OpenGL\Debug\SpinningIcosahedrons.exe

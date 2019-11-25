@@ -1,0 +1,11 @@
+﻿  main_snowmenlights.cpp
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\snowmenwithlights\main_snowmenlights.cpp(91): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\snowmenwithlights\main_snowmenlights.cpp(93): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\snowmenwithlights\main_snowmenlights.cpp(97): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\snowmenwithlights\main_snowmenlights.cpp(129): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\snowmenwithlights\main_snowmenlights.cpp(130): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\snowmenwithlights\main_snowmenlights.cpp(146): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\snowmenwithlights\main_snowmenlights.cpp(175): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\snowmenwithlights\main_snowmenlights.cpp(189): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\snowmenwithlights\main_snowmenlights.cpp(243): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SnowmenWithLights.vcxproj -> C:\Users\jhurley31\Documents\ECE4122_6122\Fall 2019\Code\OpenGL\Debug\SnowmenWithLights.exe

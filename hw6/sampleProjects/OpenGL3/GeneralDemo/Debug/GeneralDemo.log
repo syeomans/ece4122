@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\generaldemo\source.cpp(77): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\generaldemo\source.cpp(78): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\generaldemo\source.cpp(79): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\generaldemo\source.cpp(131): warning C4101: 'height': unreferenced local variable
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\generaldemo\source.cpp(133): warning C4101: 'pTextureImage': unreferenced local variable
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\generaldemo\source.cpp(131): warning C4101: 'width': unreferenced local variable
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\generaldemo\source.cpp(132): warning C4101: 'nComponents': unreferenced local variable
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\generaldemo\source.cpp(161): warning C4244: '=': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\generaldemo\source.cpp(169): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\generaldemo\source.cpp(181): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\generaldemo\source.cpp(190): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\generaldemo\source.cpp(191): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  GeneralDemo.vcxproj -> C:\Users\jhurley31\Documents\ECE4122_6122\Fall 2019\Code\OpenGL\Debug\GeneralDemo.exe

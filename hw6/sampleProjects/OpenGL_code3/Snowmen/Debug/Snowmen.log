@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\snowmen\source.cpp(91): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\snowmen\source.cpp(93): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\snowmen\source.cpp(97): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\snowmen\source.cpp(113): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\snowmen\source.cpp(128): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\snowmen\source.cpp(129): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\snowmen\source.cpp(145): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\snowmen\source.cpp(159): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\snowmen\source.cpp(173): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\snowmen\source.cpp(227): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Snowmen.vcxproj -> C:\Users\jhurley31\Documents\ECE4122_6122\Fall 2019\Code\OpenGL\Debug\Snowmen.exe

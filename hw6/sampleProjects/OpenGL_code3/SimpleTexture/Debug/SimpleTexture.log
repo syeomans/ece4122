@@ -1,0 +1,6 @@
+﻿  main_simpletexture.cpp
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\simpletexture\main_simpletexture.cpp(178): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\simpletexture\main_simpletexture.cpp(188): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\simpletexture\main_simpletexture.cpp(192): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jhurley31\documents\ece4122_6122\fall 2019\code\opengl\simpletexture\main_simpletexture.cpp(196): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SimpleTexture.vcxproj -> C:\Users\jhurley31\Documents\ECE4122_6122\Fall 2019\Code\OpenGL\Debug\SimpleTexture.exe
